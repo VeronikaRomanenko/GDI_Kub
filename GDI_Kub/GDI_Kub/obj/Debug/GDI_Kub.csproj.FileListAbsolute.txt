@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.pdb
