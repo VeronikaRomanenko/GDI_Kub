@@ -34,7 +34,7 @@ namespace GDI_Kub
             brushes.Add(Brushes.HotPink);
             brushes.Add(new HatchBrush(HatchStyle.Vertical, Color.White, Color.Blue));
             brushes.Add(Brushes.Violet);
-            brushes.Add(new LinearGradientBrush(rects[6], Color.Pink, Color.LightBlue, 0.0f));
+            brushes.Add(new LinearGradientBrush(new Rectangle(0, 0, 100, 25), Color.HotPink, Color.LightBlue, 90.0f));
             brushes.Add(Brushes.DarkViolet);
             brushes.Add(Brushes.Orange);
             brushes.Add(new LinearGradientBrush(rects[6], Color.Violet, Color.DarkViolet, 0.0f));
@@ -50,6 +50,11 @@ namespace GDI_Kub
             pen.DashStyle = DashStyle.Dash;
             g.DrawLine(pen, 200, 300, 500, 300);
             g.DrawLine(pen, 200, 400, 500, 400);
+
+            Point[] p1 = { new Point(100, 100), new Point(200, 200), new Point(200, 500), new Point(100, 400) };
+            Point[] p2 = { new Point(100, 100), new Point(200, 200), new Point(500, 200), new Point(400, 100) };
+            g.FillPolygon(new HatchBrush(HatchStyle.DashedDownwardDiagonal, Color.HotPink, Color.White), p1);
+            g.FillPolygon(Brushes.Pink, p2);
         }
     }
 }

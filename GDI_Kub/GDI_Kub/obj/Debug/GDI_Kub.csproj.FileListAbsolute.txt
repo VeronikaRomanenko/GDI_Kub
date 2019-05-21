@@ -6,3 +6,4 @@ D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\G
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csproj.GenerateResource.Cache
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.exe
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csprojResolveAssemblyReference.cache
