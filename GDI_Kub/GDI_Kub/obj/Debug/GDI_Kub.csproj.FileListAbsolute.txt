@@ -7,3 +7,13 @@ D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\G
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.exe
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.pdb
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csprojResolveAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\bin\Debug\GDI_Kub.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.Form1.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Kub\GDI_Kub\GDI_Kub\obj\Debug\GDI_Kub.pdb
